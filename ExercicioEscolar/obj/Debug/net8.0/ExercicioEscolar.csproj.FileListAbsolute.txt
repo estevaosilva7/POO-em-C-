@@ -1,0 +1,14 @@
+C:\Users\tivit_carlos.UNIT\Desktop\ExercicioEscolar\bin\Debug\net8.0\ExercicioEscolar.exe
+C:\Users\tivit_carlos.UNIT\Desktop\ExercicioEscolar\bin\Debug\net8.0\ExercicioEscolar.deps.json
+C:\Users\tivit_carlos.UNIT\Desktop\ExercicioEscolar\bin\Debug\net8.0\ExercicioEscolar.runtimeconfig.json
+C:\Users\tivit_carlos.UNIT\Desktop\ExercicioEscolar\bin\Debug\net8.0\ExercicioEscolar.dll
+C:\Users\tivit_carlos.UNIT\Desktop\ExercicioEscolar\bin\Debug\net8.0\ExercicioEscolar.pdb
+C:\Users\tivit_carlos.UNIT\Desktop\ExercicioEscolar\obj\Debug\net8.0\ExercicioEscolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tivit_carlos.UNIT\Desktop\ExercicioEscolar\obj\Debug\net8.0\ExercicioEscolar.AssemblyInfoInputs.cache
+C:\Users\tivit_carlos.UNIT\Desktop\ExercicioEscolar\obj\Debug\net8.0\ExercicioEscolar.AssemblyInfo.cs
+C:\Users\tivit_carlos.UNIT\Desktop\ExercicioEscolar\obj\Debug\net8.0\ExercicioEscolar.csproj.CoreCompileInputs.cache
+C:\Users\tivit_carlos.UNIT\Desktop\ExercicioEscolar\obj\Debug\net8.0\ExercicioEscolar.dll
+C:\Users\tivit_carlos.UNIT\Desktop\ExercicioEscolar\obj\Debug\net8.0\refint\ExercicioEscolar.dll
+C:\Users\tivit_carlos.UNIT\Desktop\ExercicioEscolar\obj\Debug\net8.0\ExercicioEscolar.pdb
+C:\Users\tivit_carlos.UNIT\Desktop\ExercicioEscolar\obj\Debug\net8.0\ExercicioEscolar.genruntimeconfig.cache
+C:\Users\tivit_carlos.UNIT\Desktop\ExercicioEscolar\obj\Debug\net8.0\ref\ExercicioEscolar.dll
