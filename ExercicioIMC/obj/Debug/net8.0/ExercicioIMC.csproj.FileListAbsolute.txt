@@ -1,0 +1,14 @@
+C:\Users\tivit_carlos.UNIT\Desktop\ExercicioIMC\bin\Debug\net8.0\ExercicioIMC.exe
+C:\Users\tivit_carlos.UNIT\Desktop\ExercicioIMC\bin\Debug\net8.0\ExercicioIMC.deps.json
+C:\Users\tivit_carlos.UNIT\Desktop\ExercicioIMC\bin\Debug\net8.0\ExercicioIMC.runtimeconfig.json
+C:\Users\tivit_carlos.UNIT\Desktop\ExercicioIMC\bin\Debug\net8.0\ExercicioIMC.dll
+C:\Users\tivit_carlos.UNIT\Desktop\ExercicioIMC\bin\Debug\net8.0\ExercicioIMC.pdb
+C:\Users\tivit_carlos.UNIT\Desktop\ExercicioIMC\obj\Debug\net8.0\ExercicioIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tivit_carlos.UNIT\Desktop\ExercicioIMC\obj\Debug\net8.0\ExercicioIMC.AssemblyInfoInputs.cache
+C:\Users\tivit_carlos.UNIT\Desktop\ExercicioIMC\obj\Debug\net8.0\ExercicioIMC.AssemblyInfo.cs
+C:\Users\tivit_carlos.UNIT\Desktop\ExercicioIMC\obj\Debug\net8.0\ExercicioIMC.csproj.CoreCompileInputs.cache
+C:\Users\tivit_carlos.UNIT\Desktop\ExercicioIMC\obj\Debug\net8.0\ExercicioIMC.dll
+C:\Users\tivit_carlos.UNIT\Desktop\ExercicioIMC\obj\Debug\net8.0\refint\ExercicioIMC.dll
+C:\Users\tivit_carlos.UNIT\Desktop\ExercicioIMC\obj\Debug\net8.0\ExercicioIMC.pdb
+C:\Users\tivit_carlos.UNIT\Desktop\ExercicioIMC\obj\Debug\net8.0\ExercicioIMC.genruntimeconfig.cache
+C:\Users\tivit_carlos.UNIT\Desktop\ExercicioIMC\obj\Debug\net8.0\ref\ExercicioIMC.dll
