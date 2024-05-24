@@ -1,0 +1,14 @@
+C:\Users\tivit_carlos.UNIT\Desktop\This\bin\Debug\net8.0\This.exe
+C:\Users\tivit_carlos.UNIT\Desktop\This\bin\Debug\net8.0\This.deps.json
+C:\Users\tivit_carlos.UNIT\Desktop\This\bin\Debug\net8.0\This.runtimeconfig.json
+C:\Users\tivit_carlos.UNIT\Desktop\This\bin\Debug\net8.0\This.dll
+C:\Users\tivit_carlos.UNIT\Desktop\This\bin\Debug\net8.0\This.pdb
+C:\Users\tivit_carlos.UNIT\Desktop\This\obj\Debug\net8.0\This.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tivit_carlos.UNIT\Desktop\This\obj\Debug\net8.0\This.AssemblyInfoInputs.cache
+C:\Users\tivit_carlos.UNIT\Desktop\This\obj\Debug\net8.0\This.AssemblyInfo.cs
+C:\Users\tivit_carlos.UNIT\Desktop\This\obj\Debug\net8.0\This.csproj.CoreCompileInputs.cache
+C:\Users\tivit_carlos.UNIT\Desktop\This\obj\Debug\net8.0\This.dll
+C:\Users\tivit_carlos.UNIT\Desktop\This\obj\Debug\net8.0\refint\This.dll
+C:\Users\tivit_carlos.UNIT\Desktop\This\obj\Debug\net8.0\This.pdb
+C:\Users\tivit_carlos.UNIT\Desktop\This\obj\Debug\net8.0\This.genruntimeconfig.cache
+C:\Users\tivit_carlos.UNIT\Desktop\This\obj\Debug\net8.0\ref\This.dll
