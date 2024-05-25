@@ -1,0 +1,14 @@
+C:\Users\estev\OneDrive\Área de Trabalho\Heranca\obj\Debug\net8.0\Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estev\OneDrive\Área de Trabalho\Heranca\obj\Debug\net8.0\Heranca.AssemblyInfoInputs.cache
+C:\Users\estev\OneDrive\Área de Trabalho\Heranca\obj\Debug\net8.0\Heranca.AssemblyInfo.cs
+C:\Users\estev\OneDrive\Área de Trabalho\Heranca\obj\Debug\net8.0\Heranca.csproj.CoreCompileInputs.cache
+C:\Users\estev\OneDrive\Área de Trabalho\Heranca\bin\Debug\net8.0\Heranca.exe
+C:\Users\estev\OneDrive\Área de Trabalho\Heranca\bin\Debug\net8.0\Heranca.deps.json
+C:\Users\estev\OneDrive\Área de Trabalho\Heranca\bin\Debug\net8.0\Heranca.runtimeconfig.json
+C:\Users\estev\OneDrive\Área de Trabalho\Heranca\bin\Debug\net8.0\Heranca.dll
+C:\Users\estev\OneDrive\Área de Trabalho\Heranca\bin\Debug\net8.0\Heranca.pdb
+C:\Users\estev\OneDrive\Área de Trabalho\Heranca\obj\Debug\net8.0\Heranca.dll
+C:\Users\estev\OneDrive\Área de Trabalho\Heranca\obj\Debug\net8.0\refint\Heranca.dll
+C:\Users\estev\OneDrive\Área de Trabalho\Heranca\obj\Debug\net8.0\Heranca.pdb
+C:\Users\estev\OneDrive\Área de Trabalho\Heranca\obj\Debug\net8.0\Heranca.genruntimeconfig.cache
+C:\Users\estev\OneDrive\Área de Trabalho\Heranca\obj\Debug\net8.0\ref\Heranca.dll
