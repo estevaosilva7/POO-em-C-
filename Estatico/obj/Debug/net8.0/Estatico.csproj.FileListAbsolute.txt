@@ -1,0 +1,14 @@
+C:\Users\tivit_carlos.UNIT\Desktop\Estatico\bin\Debug\net8.0\Estatico.exe
+C:\Users\tivit_carlos.UNIT\Desktop\Estatico\bin\Debug\net8.0\Estatico.deps.json
+C:\Users\tivit_carlos.UNIT\Desktop\Estatico\bin\Debug\net8.0\Estatico.runtimeconfig.json
+C:\Users\tivit_carlos.UNIT\Desktop\Estatico\bin\Debug\net8.0\Estatico.dll
+C:\Users\tivit_carlos.UNIT\Desktop\Estatico\bin\Debug\net8.0\Estatico.pdb
+C:\Users\tivit_carlos.UNIT\Desktop\Estatico\obj\Debug\net8.0\Estatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tivit_carlos.UNIT\Desktop\Estatico\obj\Debug\net8.0\Estatico.AssemblyInfoInputs.cache
+C:\Users\tivit_carlos.UNIT\Desktop\Estatico\obj\Debug\net8.0\Estatico.AssemblyInfo.cs
+C:\Users\tivit_carlos.UNIT\Desktop\Estatico\obj\Debug\net8.0\Estatico.csproj.CoreCompileInputs.cache
+C:\Users\tivit_carlos.UNIT\Desktop\Estatico\obj\Debug\net8.0\Estatico.dll
+C:\Users\tivit_carlos.UNIT\Desktop\Estatico\obj\Debug\net8.0\refint\Estatico.dll
+C:\Users\tivit_carlos.UNIT\Desktop\Estatico\obj\Debug\net8.0\Estatico.pdb
+C:\Users\tivit_carlos.UNIT\Desktop\Estatico\obj\Debug\net8.0\Estatico.genruntimeconfig.cache
+C:\Users\tivit_carlos.UNIT\Desktop\Estatico\obj\Debug\net8.0\ref\Estatico.dll
