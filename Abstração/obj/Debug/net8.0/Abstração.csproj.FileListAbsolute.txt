@@ -1,0 +1,14 @@
+C:\Users\estev\OneDrive\Área de Trabalho\Abstração\bin\Debug\net8.0\Abstração.exe
+C:\Users\estev\OneDrive\Área de Trabalho\Abstração\bin\Debug\net8.0\Abstração.deps.json
+C:\Users\estev\OneDrive\Área de Trabalho\Abstração\bin\Debug\net8.0\Abstração.runtimeconfig.json
+C:\Users\estev\OneDrive\Área de Trabalho\Abstração\bin\Debug\net8.0\Abstração.dll
+C:\Users\estev\OneDrive\Área de Trabalho\Abstração\bin\Debug\net8.0\Abstração.pdb
+C:\Users\estev\OneDrive\Área de Trabalho\Abstração\obj\Debug\net8.0\Abstração.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estev\OneDrive\Área de Trabalho\Abstração\obj\Debug\net8.0\Abstração.AssemblyInfoInputs.cache
+C:\Users\estev\OneDrive\Área de Trabalho\Abstração\obj\Debug\net8.0\Abstração.AssemblyInfo.cs
+C:\Users\estev\OneDrive\Área de Trabalho\Abstração\obj\Debug\net8.0\Abstração.csproj.CoreCompileInputs.cache
+C:\Users\estev\OneDrive\Área de Trabalho\Abstração\obj\Debug\net8.0\Abstração.dll
+C:\Users\estev\OneDrive\Área de Trabalho\Abstração\obj\Debug\net8.0\refint\Abstração.dll
+C:\Users\estev\OneDrive\Área de Trabalho\Abstração\obj\Debug\net8.0\Abstração.pdb
+C:\Users\estev\OneDrive\Área de Trabalho\Abstração\obj\Debug\net8.0\Abstração.genruntimeconfig.cache
+C:\Users\estev\OneDrive\Área de Trabalho\Abstração\obj\Debug\net8.0\ref\Abstração.dll
